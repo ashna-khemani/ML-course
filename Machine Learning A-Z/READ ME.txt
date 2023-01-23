@@ -1,0 +1,9 @@
+NOTE
+
+Some of the packages became deprecated while I was in the middle of this course, so a new data preprocessing template was made. 
+
+Use ‘preprocessing.py’ NOT ‘data_preprocessing_template.py’
+
+I’m going to start putting it from Part 2 Section 6 (polynomial regression).
+
+ok that’s all bye.

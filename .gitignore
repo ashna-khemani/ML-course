@@ -1,5 +1,6 @@
 .DS_Store
-*.Rhistory
+**.Rhistory
+**.RData
 *.Rproj
 *.pper
 Machine Learning A-Z/Part 3 - Classification/Section 20 - Random Forest Classification/.Rhistory
